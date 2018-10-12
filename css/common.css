@@ -1,0 +1,23 @@
+html ,body,ul,li,p,h1,h2,h3,form,img {
+	margin: 0;
+	padding: 0;
+}
+img {
+	border: none;
+}
+ul,ol {
+	list-style:none;
+}
+input {
+	padding-top:0;
+	padding-bottom:0;
+	bottom: none;
+}
+a {
+	text-decoration: none;
+}
+body {
+	font: normal normal 12px "微软雅黑";
+	color: #4c4c4c;
+	/*background-color: #FFEADF;*/
+}
